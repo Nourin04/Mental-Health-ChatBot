@@ -1,6 +1,8 @@
-langchain
-chromadb
-sentence-transformers
-gradio
+langchain_groq
+langchain_core
+langchain_community
 pypdf
+chromadb
+sentence_transformers
+gradio
 streamlit
