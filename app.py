@@ -17,7 +17,7 @@ if not os.path.exists(db_path):
 def initialize_llm():
     llm = ChatGroq(
         temperature=0,
-        groq_api_key="your_groq_api_key_here",
+        groq_api_key="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",
         model_name="llama-3.3-70b-versatile"
     )
     return llm
